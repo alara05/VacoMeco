@@ -1,4 +1,4 @@
 *.err
-*-tmp
+*.tmp
 /bin
 acces.log
